@@ -44,6 +44,7 @@ struct capability_info pinbased[5] =
 
 
 /*
+*By Priyanka
 * Primary ProcBased Capablitity
 * See SDM volume 3C, section 24.6.2
 */
@@ -78,6 +79,7 @@ struct capability_info procbased[21] =
 
 
 /*
+By priyanka
 * Secondary ProcBased Capablitity
 * See SDM volume 3, section 24.6.2
 */
@@ -113,7 +115,8 @@ struct capability_info secondary_procbased[23] =
 };
 
 /*
-* Primary ProcBased Capablitity
+*By Preeti 
+* Entry Capablitity
 * See SDM volume 3C, section 24.7.1
 */
 
@@ -137,7 +140,8 @@ struct capability_info entry_controls[9] =
 
 
 /*
-* Primary ProcBased Capablitity
+*By Preeti
+* Exit Capablitity
 * See SDM volume 3C, section 24.8.1
 */
 
